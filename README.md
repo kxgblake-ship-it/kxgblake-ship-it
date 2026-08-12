@@ -163,7 +163,7 @@ Every project is an opportunity to learn something new, improve existing skills,
 # 📫 Contact
 
 <p align="center">
-  📧 <b>Email:</b> YOUR_EMAIL@gmail.com
+  📧 <b>Email:</b> kxgblake@gmail.com
 </p>
 
 ---
